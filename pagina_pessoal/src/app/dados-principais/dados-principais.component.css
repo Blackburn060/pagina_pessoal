@@ -1,0 +1,66 @@
+body {
+    font-family: "SF UI Text", "Helvetica Neue", "Segoe UI", Oxygen, Ubuntu,
+      Cantarell, "Open Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #Secao1 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  
+  #ConteudoCentral {
+  align-items: center;
+  justify-content: space-between;
+  margin-top: calc(2em + 2em);
+  }
+  
+  
+  
+  h1 {
+      color: rgb(206, 255, 114);
+      text-align: left;
+      font-size: 35px;
+  }
+  
+  article {
+    border: 0.115rem solid #fff;
+    width: calc(30em + 30em);
+    height: calc(10em + 10em);
+    padding-left: 15px;
+  }
+  
+  article h2 {
+  font-size: 40px;
+  }
+  
+  article p {
+  max-width: 60vh;
+  font-size: 20px;
+  }
+  
+  figure {
+      margin-left: 80vh;
+      z-index: 1;
+      width: 23.334em;
+      height: 24.67em;
+      position: absolute;
+      
+  }
+  
+  #ImagemPerfil {
+    width: 250px;
+    border-radius: 10%;
+  }
+  
+  
+  

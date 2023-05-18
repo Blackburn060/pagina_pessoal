@@ -1,0 +1,11 @@
+#PaginaPrincipal {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 13, 128, 0.877);
+}
+
+header {
+    background-image: url(./assets/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    height: 13vh;
+}
